@@ -7,6 +7,7 @@ import urllib.request
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import lxml.html
+from subprocess import call
 
 GOOGLE_ACCOUNTS_BASE_URL = 'https://accounts.google.com'
 REDIRECT_URI = 'urn:ietf:wg:oauth:2.0:oob'
@@ -140,4 +141,5 @@ if __name__ == '__main__':
               'News Update for the Morning',
                Email_Message.read())
     
-# Finalization with Git Commit
+# Git Commit
+call(["python","git_commit.py"])
