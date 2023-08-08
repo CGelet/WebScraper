@@ -216,6 +216,11 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://breakingdefense.com/2023/08/fortifying-air-bases/>
+Fortifying air bases
+</a>
+</td> 
+<td>
 <a href=https://breakingdefense.com/2023/08/south-american-militaries-take-aim-at-narco-trafficking-with-new-radars-exercises/>
 South American militaries take aim at narco trafficking with new radars, exercises
 </a>
@@ -225,13 +230,13 @@ South American militaries take aim at narco trafficking with new radars, exercis
 Why a US Navy admiral says China won’t pick up the military hotline
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/washingtons-security-strategy-in-iraq-was-deep-frozen-this-week-might-bring-an-overdue-thaw/>
 Washington’s security strategy in Iraq was deep-frozen. This week might bring an overdue thaw.
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/from-petroleum-pipes-to-pest-problems-what-a-us-army-2-star-learned-from-talisman-sabre-23/>
 From petroleum pipes to pest problems, what a US Army 2-star learned from Talisman Sabre 23
@@ -242,13 +247,13 @@ From petroleum pipes to pest problems, what a US Army 2-star learned from Talism
 The cloud, fiber optics and hiding in basements: Army races to adapt to new command post threats
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/space-force-intel-focus-50-on-china-25-onrussia/>
 Space Force intel focus: 50% on China; 25% on Russia
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/kc-46a-tanker-still-has-6-category-1-deficiencies-but-fixes-are-in-the-works-usaf-official/>
 KC-46A tanker still has 6 category 1 deficiencies, but fixes are in the works: USAF official
@@ -259,13 +264,13 @@ KC-46A tanker still has 6 category 1 deficiencies, but fixes are in the works: U
 After Azerbaijan, will Pakistan also join Turkey’s 5th generation fighter program?
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/as-threats-expand-so-does-the-armys-fvl-ecosystem-of-air-launched-effects-and-open-systems-capabilities/>
 As threats expand, so does the Army’s FVL ecosystem of air launched effects and open systems capabilities
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/non-us-firms-are-winning-big-deals-in-the-gulf-can-washington-reverse-the-trend/>
 Non-US firms are winning big deals in the Gulf. Can Washington reverse the trend?
@@ -276,21 +281,16 @@ Non-US firms are winning big deals in the Gulf. Can Washington reverse the trend
 3 acting chiefs, 3 black boxes: Army, Navy to join Marines without confirmed chief
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/sprawling-pacific-exercise-revealed-air-force-needs-some-doctrine-refresh-general/>
 Sprawling Pacific exercise revealed Air Force needs some doctrine ‘refresh’: General
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/without-doors-army-eyeing-fixes-to-ivas-mixed-reality-trainer/>
 Army’s pricey IVAS goggles meet a training obstacle: Doors
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/enhancing-lethality-first-space-force-operations-doctrine-cements-role-within-joint-force/>
-Enhancing ‘lethality’: First Space Force ‘operations’ doctrine cements role within Joint Force
 </a>
 </td> 
 </tr> 
