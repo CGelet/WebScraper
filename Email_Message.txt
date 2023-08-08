@@ -1,0 +1,298 @@
+<style>
+tr {
+  border-bottom: 1px solid #ddd;
+}
+</style><font size="3">
+<table cellspacing="5" border="1" width="100%"> 
+<tbody>
+<tr>
+<th colspan="3">
+AIA Articles 
+</th>
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUcpFRKj>
+Kratos among rising tech-focused defense companies
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUcZCdUP>
+Defense sector races to incorporate AI
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUdlCOgi>
+Ukraine drawdown forces Army to ramp up shell production
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUdxESOj>
+Startups help advance Pentagon hypersonic programs
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUdJIrUW>
+Boeing adds capacity, range to 777-8
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUdVNlDx>
+Leonardo grows orders in Brazil
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUehTzJm>
+Boeing launches career return program in UK
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUetbipp>
+Atlas 5 selected for Project Kuiper
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUeFklEa>
+NASA to send 3 rovers to the moon in 2024
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rajECfbwnsvaxUfdGBVC>
+NDAA extends waiting period for private sector transition
+</a>
+</td> 
+</tr> 
+<tr>
+<th colspan="3">
+DefenseNews Articles 
+</th>
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/land/2023/08/07/what-challenges-will-the-next-missile-defense-agency-director-face/>
+What challenges will the next Missile Defense Agency director face?
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/industry/techwatch/2023/08/07/emerging-tech-focused-firms-could-reshape-the-top-100/>
+Emerging tech-focused firms could reshape the Top 100
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/smr/cloud/2023/08/04/us-air-force-moves-closer-to-awarding-cloud-one-next-contract/>
+US Air Force moves closer to awarding Cloud One Next contract
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/news/your-air-force/2023/08/03/heres-how-air-force-special-ops-power-projection-wings-will-work/>
+Here’s how Air Force special ops ‘power projection wings’ will work
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/air/2023/08/03/us-air-force-eyes-advance-procurement-to-more-quickly-make-e-7-planes/>
+US Air Force eyes advance procurement to more quickly make E-7 planes
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/interviews/2023/08/08/seven-questions-with-gen-rainey-head-of-us-army-futures-command/>
+Seven questions with Gen. Rainey, head of US Army Futures Command
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/digital-show-dailies/smd/2023/08/08/industry-teams-near-milestone-to-build-novel-us-missile-interceptor/>
+Industry teams near milestone to build novel US missile interceptor
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/global/europe/2023/08/04/italy-signs-nearly-1-billion-deal-to-upgrade-ariete-tanks/>
+Italy signs nearly $1 billion deal to upgrade Ariete tanks
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/land/2023/08/04/us-army-greenlights-armored-vehicle-for-full-rate-production/>
+US Army greenlights armored vehicle for full-rate production
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/industry/2023/08/04/israel-orders-tens-of-thousands-of-155mm-artillery-shells-from-elbit/>
+Israel orders tens of thousands of 155mm artillery shells from Elbit
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/home/2023/08/08/leidos-refining-focus-crafting-north-star-vision-ceo-tom-bell-says/>
+Leidos refining focus, crafting ‘North Star’ vision, CEO Tom Bell says
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/news/your-navy/2023/08/07/how-adm-paparo-will-lead-the-us-military-in-the-indo-pacific/>
+How Adm. Paparo will lead the US military in the Indo-Pacific
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/industry/2023/08/07/the-pentagons-embrace-of-startups-could-fuel-hypersonic-tech/>
+The Pentagon’s embrace of startups could fuel hypersonic tech
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/2023/08/04/northrop-opens-hypersonic-propulsion-manufacturing-facility/>
+Northrop opens hypersonic propulsion manufacturing facility
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/naval/2023/08/04/navy-says-destroyer-deal-helps-two-yards-boost-capacity-at-best-pace/>
+Navy says destroyer deal helps two yards boost capacity at best pace
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/news/your-marine-corps/2023/08/03/marine-corps-now-has-unit-in-indo-pacific-flying-reaper-drones/>
+Marine Corps now has unit in Indo-Pacific flying Reaper drones
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/industry/2023/08/02/anduril-epirus-to-boost-us-marine-corps-drone-defenses/>
+Anduril, Epirus to boost US Marine Corps drone defenses
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/news/your-military/2023/08/02/russia-launches-live-fire-baltic-naval-drills-on-europes-doorstep/>
+Russia launches live-fire Baltic naval drills on Europe’s doorstep
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/naval/2023/08/01/navy-awards-nine-arleigh-burke-destroyers-in-five-year-contracts/>
+Navy awards nine Arleigh Burke destroyers in five-year contracts
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/08/03/rogers-demands-pentagon-comply-with-space-command-inquiry/>
+Rogers demands Pentagon comply with Space Command inquiry
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/alabama-lawmaker-blames-far-left-politics-for-spacecom-hq-decision/>
+Alabama lawmaker blames ‘far-left’ politics for SPACECOM HQ decision
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/space-command-to-stay-in-colorado-after-biden-rejects-move-to-alabama/>
+Space Command to stay in Colorado after Biden rejects move to Alabama
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/07/26/lockheed-bwxt-to-build-nuclear-powered-spacecraft-engine/>
+Lockheed, BWXT to build nuclear-powered spacecraft, engine
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/congress/2023/07/19/congress-oks-troop-bonus-funds-but-space-hq-fight-stalls-other-items/>
+Congress OKs troop bonus funds, but space HQ fight stalls other items
+</a>
+</td> 
+</tr> 
+<tr>
+<th colspan="3">
+BreakingDefense Articles 
+</th>
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/washingtons-security-strategy-in-iraq-was-deep-frozen-this-week-might-bring-an-overdue-thaw/>
+Washington’s security strategy in Iraq was deep-frozen. This week might bring an overdue thaw.
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/from-petroleum-pipes-to-pest-problems-what-a-us-army-2-star-learned-from-talisman-sabre-23/>
+From petroleum pipes to pest problems, what a US Army 2-star learned from Talisman Sabre 23
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/the-cloud-fiber-optics-and-hiding-in-basements-army-races-to-adapt-to-new-command-post-threats/>
+The cloud, fiber optics and hiding in basements: Army races to adapt to new command post threats
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/space-force-intel-focus-50-on-china-25-onrussia/>
+Space Force intel focus: 50% on China; 25% on Russia
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/kc-46a-tanker-still-has-6-category-1-deficiencies-but-fixes-are-in-the-works-usaf-official/>
+KC-46A tanker still has 6 category 1 deficiencies, but fixes are in the works: USAF official
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/after-azerbaijan-will-pakistan-also-join-turkeys-5th-generation-fighter-program/>
+After Azerbaijan, will Pakistan also join Turkey’s 5th generation fighter program?
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/as-threats-expand-so-does-the-armys-fvl-ecosystem-of-air-launched-effects-and-open-systems-capabilities/>
+As threats expand, so does the Army’s FVL ecosystem of air launched effects and open systems capabilities
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/non-us-firms-are-winning-big-deals-in-the-gulf-can-washington-reverse-the-trend/>
+Non-US firms are winning big deals in the Gulf. Can Washington reverse the trend?
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/3-acting-chiefs-3-black-boxes-army-navy-to-join-marines-without-confirmed-chief/>
+3 acting chiefs, 3 black boxes: Army, Navy to join Marines without confirmed chief
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/sprawling-pacific-exercise-revealed-air-force-needs-some-doctrine-refresh-general/>
+Sprawling Pacific exercise revealed Air Force needs some doctrine ‘refresh’: General
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/without-doors-army-eyeing-fixes-to-ivas-mixed-reality-trainer/>
+Army’s pricey IVAS goggles meet a training obstacle: Doors
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/enhancing-lethality-first-space-force-operations-doctrine-cements-role-within-joint-force/>
+Enhancing ‘lethality’: First Space Force ‘operations’ doctrine cements role within Joint Force
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/for-ngads-new-capabilities-air-force-turns-to-about-a-dozen-non-traditional-vendors-general/>
+For NGAD’s new capabilities, Air Force turns to ‘about… a dozen’ non-traditional vendors: General
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/poland-to-buy-several-hundred-long-range-spike-antitank-missiles/>
+Poland to spend $100M on ‘several hundred’ long-range Spike antitank missiles
+</a>
+</td> 
+</tr> 
+</tbody>
+</table>
