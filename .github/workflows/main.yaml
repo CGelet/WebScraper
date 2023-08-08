@@ -2,7 +2,7 @@ name: Run Scraper at 12:55 EST
 
 on:
   schedule:
-    - cron: '58 17 * * *'  # This corresponds to 12:55 EST (UTC-4)
+    - cron: '0 18 * * *'  # This corresponds to 12:55 EST (UTC-4)
 
 jobs:
   build:
