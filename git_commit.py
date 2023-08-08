@@ -1,9 +1,9 @@
 from git import Repo 
-from datetime import date
+from datetime import datetime
 
 
 Git_Path = 'D:\Development\Github Repositories\WebScraper'
-Com_Msg = date.now().strftime("%d/%m/%Y %H:%M:%S")+' - News Update'
+Com_Msg = datetime.now().strftime("%d/%m/%Y %H:%M:%S")+' - News Update'
 
 def git_push():
     try:
