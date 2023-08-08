@@ -3,7 +3,7 @@ from datetime import date
 
 
 Git_Path = 'D:\Development\Github Repositories\WebScraper'
-Com_Msg = date.today().strftime("%d/%m/%Y %H:%M:%S")+' - News Update'
+Com_Msg = date.now().strftime("%d/%m/%Y %H:%M:%S")+' - News Update'
 
 def git_push():
     try:
