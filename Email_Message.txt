@@ -216,6 +216,11 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://breakingdefense.com/2023/08/all-domain-c2-data-sharing-key-for-talisman-sabre-us-3-star/>
+All domain C2, data sharing key for Talisman Sabre: US 3-star
+</a>
+</td> 
+<td>
 <a href=https://breakingdefense.com/2023/08/fortifying-air-bases/>
 Fortifying air bases
 </a>
@@ -225,13 +230,13 @@ Fortifying air bases
 South American militaries take aim at narco trafficking with new radars, exercises
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/why-a-us-navy-admiral-says-china-wont-pick-up-the-military-hotline/>
 Why a US Navy admiral says China won’t pick up the military hotline
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/washingtons-security-strategy-in-iraq-was-deep-frozen-this-week-might-bring-an-overdue-thaw/>
 Washington’s security strategy in Iraq was deep-frozen. This week might bring an overdue thaw.
@@ -242,13 +247,13 @@ Washington’s security strategy in Iraq was deep-frozen. This week might bring an
 From petroleum pipes to pest problems, what a US Army 2-star learned from Talisman Sabre 23
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/the-cloud-fiber-optics-and-hiding-in-basements-army-races-to-adapt-to-new-command-post-threats/>
 The cloud, fiber optics and hiding in basements: Army races to adapt to new command post threats
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/space-force-intel-focus-50-on-china-25-onrussia/>
 Space Force intel focus: 50% on China; 25% on Russia
@@ -259,13 +264,13 @@ Space Force intel focus: 50% on China; 25% on Russia
 KC-46A tanker still has 6 category 1 deficiencies, but fixes are in the works: USAF official
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/after-azerbaijan-will-pakistan-also-join-turkeys-5th-generation-fighter-program/>
 After Azerbaijan, will Pakistan also join Turkey’s 5th generation fighter program?
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/as-threats-expand-so-does-the-armys-fvl-ecosystem-of-air-launched-effects-and-open-systems-capabilities/>
 As threats expand, so does the Army’s FVL ecosystem of air launched effects and open systems capabilities
@@ -276,21 +281,16 @@ As threats expand, so does the Army’s FVL ecosystem of air launched effects and 
 Non-US firms are winning big deals in the Gulf. Can Washington reverse the trend?
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/3-acting-chiefs-3-black-boxes-army-navy-to-join-marines-without-confirmed-chief/>
 3 acting chiefs, 3 black boxes: Army, Navy to join Marines without confirmed chief
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/sprawling-pacific-exercise-revealed-air-force-needs-some-doctrine-refresh-general/>
 Sprawling Pacific exercise revealed Air Force needs some doctrine ‘refresh’: General
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/without-doors-army-eyeing-fixes-to-ivas-mixed-reality-trainer/>
-Army’s pricey IVAS goggles meet a training obstacle: Doors
 </a>
 </td> 
 </tr> 
