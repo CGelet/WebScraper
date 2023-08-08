@@ -140,4 +140,4 @@ if __name__ == '__main__':
               'News Update for the Morning',
                Email_Message.read())
     
-    
+# Finalization with Git Commit
