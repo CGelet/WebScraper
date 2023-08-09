@@ -1,0 +1,15 @@
+{
+  "name": "webscraper-desktopapp",
+  "version": "1.0.0",
+  "description": "Desktop Application for WebScraper Python Application",
+  "main": "main.js",
+  "author": "CGelet",
+  "license": "ISC",
+
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
