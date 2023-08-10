@@ -12,42 +12,52 @@ AIA Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHxBtqrh>
-Boeing eyes Brazil for rising SAF production
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeowFcSrU>
+Boeing reaches helo data accord with Air Force
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHxNAYXk>
-Leidos optimizes portfolio, refines roadmap
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeowReWZV>
+Kratos, Hypersonix team enters US hypersonics market
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHxZKclV>
-MDA Next-Gen Interceptor approaches prelim design review
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHylUAqU>
-BBN, Two Six tapped for DARPA supply chain program
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHyxgsDx>
-Raytheon uses rapid prototyping in AAM development
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHzhnMPn>
-Airlines, government move toward air taxi operations
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxdiwgI>
+Northrop enables automated software updates for B-2
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rapXCfbwnsvbaHzRuaPu>
-How the federal government is taking a new look at data
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxpnpPj>
+Boeing performs advanced upgrades on P-8
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxBtDUY>
+QinetiQ, BAE fly new testbed for UK defense projects
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxNBmBb>
+SkyCourier wins certification in Brazil
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxZKpPM>
+United continues supporting sustainable fuel investment
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoylUNUL>
+LG Chem, Neste sign supply deal for SAF
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoztoKEx>
+Biden administration disrupts private investment in China
 </a>
 </td> 
 </tr> 
@@ -58,10 +68,22 @@ DefenseNews Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://www.defensenews.com/global/europe/2023/08/10/romania-eyes-32-f-35s-under-65-billion-deal/>
+Romania eyes 32 F-35s under $6.5 billion deal
+</a>
+</td> 
+<td>
 <a href=https://www.defensenews.com/battlefield-tech/2023/08/09/kratos-hypersonix-team-up-on-hypersonic-systems-for-us-market/>
 Kratos, Hypersonix team up on hypersonic systems for US market
 </a>
 </td> 
+<td>
+<a href=https://www.defensenews.com/news/your-air-force/2023/08/09/inside-the-air-forces-massive-mobility-war-game-in-the-pacific/>
+Inside the Air Force’s massive mobility war game in the Pacific
+</a>
+</td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/land/2023/08/07/what-challenges-will-the-next-missile-defense-agency-director-face/>
 What challenges will the next Missile Defense Agency director face?
@@ -70,18 +92,6 @@ What challenges will the next Missile Defense Agency director face?
 <td>
 <a href=https://www.defensenews.com/industry/techwatch/2023/08/07/emerging-tech-focused-firms-could-reshape-the-top-100/>
 Emerging tech-focused firms could reshape the Top 100
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://www.defensenews.com/smr/cloud/2023/08/04/us-air-force-moves-closer-to-awarding-cloud-one-next-contract/>
-US Air Force moves closer to awarding Cloud One Next contract
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/news/your-air-force/2023/08/03/heres-how-air-force-special-ops-power-projection-wings-will-work/>
-Here’s how Air Force special ops ‘power projection wings’ will work
 </a>
 </td> 
 <td>
@@ -126,13 +136,8 @@ How Adm. Paparo will lead the US military in the Indo-Pacific
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/industry/2023/08/07/the-pentagons-embrace-of-startups-could-fuel-hypersonic-tech/>
-The Pentagon’s embrace of startups could fuel hypersonic tech
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/battlefield-tech/2023/08/04/northrop-opens-hypersonic-propulsion-manufacturing-facility/>
-Northrop opens hypersonic propulsion manufacturing facility
+<a href=https://www.defensenews.com/news/your-military/2023/08/04/dod-chief-warns-of-disruptions-as-army-marines-lack-confirmed-leaders/>
+DoD chief warns of disruptions as Army, Marines lack confirmed leaders
 </a>
 </td> 
 <td>
@@ -140,13 +145,13 @@ Northrop opens hypersonic propulsion manufacturing facility
 Navy extends service lives of four more destroyers
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/naval/2023/08/04/navy-says-destroyer-deal-helps-two-yards-boost-capacity-at-best-pace/>
 Navy says destroyer deal helps two yards boost capacity at best pace
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/news/your-marine-corps/2023/08/03/marine-corps-now-has-unit-in-indo-pacific-flying-reaper-drones/>
 Marine Corps now has unit in Indo-Pacific flying Reaper drones
@@ -157,13 +162,13 @@ Marine Corps now has unit in Indo-Pacific flying Reaper drones
 Anduril, Epirus to boost US Marine Corps drone defenses
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/news/your-military/2023/08/02/russia-launches-live-fire-baltic-naval-drills-on-europes-doorstep/>
 Russia launches live-fire Baltic naval drills on Europe’s doorstep
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/08/03/rogers-demands-pentagon-comply-with-space-command-inquiry/>
 Rogers demands Pentagon comply with Space Command inquiry
@@ -174,13 +179,13 @@ Rogers demands Pentagon comply with Space Command inquiry
 Alabama lawmaker blames ‘far-left’ politics for SPACECOM HQ decision
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/space-command-to-stay-in-colorado-after-biden-rejects-move-to-alabama/>
 Space Command to stay in Colorado after Biden rejects move to Alabama
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/07/26/lockheed-bwxt-to-build-nuclear-powered-spacecraft-engine/>
 Lockheed, BWXT to build nuclear-powered spacecraft, engine
@@ -199,10 +204,39 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://breakingdefense.com/2023/08/tying-it-together-army-eyes-evolving-test-plan-new-capabilities-bound-for-guam/>
+Tying it together: Army eyes evolving test plan new capabilities bound for Guam
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/missile-defense-agencys-first-flight-test-for-aegis-in-guam-set-for-late-24/>
+Missile Defense Agency’s first flight test for Aegis in Guam set for late ’24
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/darpa-white-house-launch-20m-ai-cybersecurity-challenge/>
+DARPA, White House launch $20M AI, cybersecurity challenge
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/fighting-with-lasers-army-to-experiment-with-50kw-laser-combined-with-kinetic-air-defenses/>
+Fighting with lasers: Army to experiment with 50kw laser combined with kinetic air defenses
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/no-more-impasses-air-force-to-get-helo-technical-data-from-lockheed-boeing/>
+‘No more impasses’: Air Force to get helo technical data from Lockheed, Boeing
+</a>
+</td> 
+<td>
 <a href=https://breakingdefense.com/2023/08/beyond-bullet-on-bullet-northcoms-new-defense-plan-looks-to-kill-missiles-before-they-launch/>
 Beyond ‘bullet on bullet’: NORTHCOM’s new defense plan looks to kill missiles before they launch
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/pentagon-memo-aims-to-leverage-9b-jwcc-to-greatest-extent-possible-official/>
 Pentagon memo aims to leverage $9B JWCC ‘to greatest extent possible’: Official
@@ -213,13 +247,13 @@ Pentagon memo aims to leverage $9B JWCC ‘to greatest extent possible’: Official
 New UK sanctions for alleged Russian suppliers hit Turkish and Emirati firms, Iranian drone maker
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/noaa-eases-licensing-restrictions-on-commercial-remote-sensing/>
 NOAA eases licensing restrictions on commercial remote sensing
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/unmanned-and-unmatched-rheinmetalls-autonomous-vehicle-technology-drives-future-force-mobility/>
 Unmanned and unmatched: Rheinmetall’s autonomous vehicle technology drives future force mobility
@@ -230,13 +264,13 @@ Unmanned and unmatched: Rheinmetall’s autonomous vehicle technology drives futur
 Maintaining lasers for counter-drone protection can be a struggle in remote locations: Officials
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/air-force-developing-new-architecture-for-jadc2-kill-chains-wants-faster-abms-development/>
 Air Force developing new architecture for JADC2 ‘kill chains,’ wants faster ABMS development
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/us-army-wants-more-patriot-units-but-faces-tough-recruiting-environment/>
 US Army wants more Patriot units, but faces tough recruiting environment
@@ -245,35 +279,6 @@ US Army wants more Patriot units, but faces tough recruiting environment
 <td>
 <a href=https://breakingdefense.com/2023/08/chinas-rapid-space-launch-advantage-and-how-the-us-can-try-to-counter-it/>
 China’s rapid space launch advantage, and how the US can try to counter it
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/implementing-strategic-deterrence-through-test/>
-Implementing strategic deterrence through test
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/lockheed-northrop-say-theyre-on-accelerated-schedules-in-race-for-next-gen-interceptor/>
-Lockheed, Northrop say they’re on ‘accelerated’ schedules in race for Next-Gen Interceptor
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/australias-droneshield-actively-targeting-middle-east-presence-as-counter-uas-demand-balloons-ceo/>
-Australia’s DroneShield ‘actively targeting’ Middle East presence as counter-UAS demand balloons: CEO
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/all-domain-c2-data-sharing-key-for-talisman-sabre-us-3-star/>
-All domain C2, data sharing key for Talisman Sabre: US 3-star
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/fortifying-air-bases/>
-Fortifying air bases
 </a>
 </td> 
 </tr> 
