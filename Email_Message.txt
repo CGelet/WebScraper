@@ -12,52 +12,64 @@ AIA Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeowFcSrU>
-Boeing reaches helo data accord with Air Force
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOslJyrz>
+DOD moves to incorporate AI
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeowReWZV>
-Kratos, Hypersonix team enters US hypersonics market
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOsJcZLj>
+Archer stokes Marine Corps interest in Midnight eVTOL
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxdiwgI>
-Northrop enables automated software updates for B-2
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxpnpPj>
-Boeing performs advanced upgrades on P-8
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxBtDUY>
-QinetiQ, BAE fly new testbed for UK defense projects
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxNBmBb>
-SkyCourier wins certification in Brazil
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOsVoRXM>
+Boeing to upgrade Navy Stingrays
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoxZKpPM>
-United continues supporting sustainable fuel investment
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOtFtxlK>
+Leidos develops submarine drones for Navy
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoylUNUL>
-LG Chem, Neste sign supply deal for SAF
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOtRuhxd>
+DOD procures digital twin tech in cost optimization push
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/ravGCfbwnsvbeoztoKEx>
-Biden administration disrupts private investment in China
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOudwmfe>
+Indonesia awaits next tranche of Rafales
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOupzLlR>
+CSIRO, Boeing report highlights Australia's SAF potential
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOuBEEUs>
+Drones provide new efficiencies for Georgia Power
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOuNKTah>
+Glider pilot, 16, inspiring other young people to fly
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOuZSBGk>
+Virgin Galactic completes space tourist mission
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rbaFCfbwnsvbiOvlbEUV>
+Commentary: Dangers of the Pentagon confirmation freeze
 </a>
 </td> 
 </tr> 
@@ -124,17 +136,22 @@ US Army splits testing phase of future missile defense radar
 </a>
 </td> 
 <td>
+<a href=https://www.defensenews.com/artificial-intelligence/2023/08/10/pentagon-establishes-task-force-lima-to-study-generative-ai-issues/>
+Pentagon establishes Task Force Lima to study generative AI issues
+</a>
+</td> 
+<td>
 <a href=https://www.defensenews.com/home/2023/08/08/leidos-refining-focus-crafting-north-star-vision-ceo-tom-bell-says/>
 Leidos refining focus, crafting ‘North Star’ vision, CEO Tom Bell says
 </a>
 </td> 
-<td>
-<a href=https://www.defensenews.com/news/your-navy/2023/08/07/how-adm-paparo-will-lead-the-us-military-in-the-indo-pacific/>
-How Adm. Paparo will lead the US military in the Indo-Pacific
-</a>
-</td> 
 </tr> 
 <tr> 
+<td>
+<a href=https://www.defensenews.com/industry/2023/08/07/the-pentagons-embrace-of-startups-could-fuel-hypersonic-tech/>
+The Pentagon’s embrace of startups could fuel hypersonic tech
+</a>
+</td> 
 <td>
 <a href=https://www.defensenews.com/news/your-military/2023/08/04/dod-chief-warns-of-disruptions-as-army-marines-lack-confirmed-leaders/>
 DoD chief warns of disruptions as Army, Marines lack confirmed leaders
@@ -145,13 +162,13 @@ DoD chief warns of disruptions as Army, Marines lack confirmed leaders
 Navy extends service lives of four more destroyers
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/naval/2023/08/04/navy-says-destroyer-deal-helps-two-yards-boost-capacity-at-best-pace/>
 Navy says destroyer deal helps two yards boost capacity at best pace
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/news/your-marine-corps/2023/08/03/marine-corps-now-has-unit-in-indo-pacific-flying-reaper-drones/>
 Marine Corps now has unit in Indo-Pacific flying Reaper drones
@@ -162,18 +179,25 @@ Marine Corps now has unit in Indo-Pacific flying Reaper drones
 Anduril, Epirus to boost US Marine Corps drone defenses
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/news/your-military/2023/08/02/russia-launches-live-fire-baltic-naval-drills-on-europes-doorstep/>
 Russia launches live-fire Baltic naval drills on Europe’s doorstep
 </a>
 </td> 
-</tr> 
-<tr> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/08/11/how-the-space-force-is-preparing-its-ground-systems-for-dynamic-ops/>
+How the Space Force is preparing its ground systems for ‘dynamic’ ops
+</a>
+</td> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/08/03/rogers-demands-pentagon-comply-with-space-command-inquiry/>
 Rogers demands Pentagon comply with Space Command inquiry
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/alabama-lawmaker-blames-far-left-politics-for-spacecom-hq-decision/>
 Alabama lawmaker blames ‘far-left’ politics for SPACECOM HQ decision
@@ -184,16 +208,9 @@ Alabama lawmaker blames ‘far-left’ politics for SPACECOM HQ decision
 Space Command to stay in Colorado after Biden rejects move to Alabama
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/battlefield-tech/space/2023/07/26/lockheed-bwxt-to-build-nuclear-powered-spacecraft-engine/>
 Lockheed, BWXT to build nuclear-powered spacecraft, engine
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/congress/2023/07/19/congress-oks-troop-bonus-funds-but-space-hq-fight-stalls-other-items/>
-Congress OKs troop bonus funds, but space HQ fight stalls other items
 </a>
 </td> 
 </tr> 
@@ -201,6 +218,40 @@ Congress OKs troop bonus funds, but space HQ fight stalls other items
 <th colspan="3">
 BreakingDefense Articles 
 </th>
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/pentagon-launches-task-force-lima-to-study-generative-ai-for-defense/>
+Pentagon launches ‘Task Force Lima’ to study generative AI for defense
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/malabar-exercise-brings-india-to-the-pacific-along-with-aussie-f-35s-p-8s/>
+Malabar exercise brings India to the Pacific – along with Aussie F-35s, P-8s
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/army-closes-in-on-fielding-of-long-range-hypersonic-weapon/>
+Army closes in on fielding of Long-Range Hypersonic Weapon
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/baykar-ceo-hopes-massive-saudi-deal-paves-path-for-turkish-defense-firms-in-ksa/>
+Baykar CEO hopes massive Saudi deal paves path for Turkish defense firms in KSA
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/land-forces-now-control-the-sea-and-that-is-vital-in-the-pacific/>
+Land forces now control the sea — and that is vital in the Pacific
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/exclusive-how-the-navys-chief-engineer-sees-3d-printing-rebuilding-the-fleet/>
+EXCLUSIVE: How the Navy’s chief engineer sees 3D printing rebuilding the fleet
+</a>
+</td> 
 </tr> 
 <tr> 
 <td>
@@ -245,40 +296,6 @@ Pentagon memo aims to leverage $9B JWCC ‘to greatest extent possible’: Official
 <td>
 <a href=https://breakingdefense.com/2023/08/new-uk-sanctions-for-alleged-russian-suppliers-hit-turkish-and-emirati-firms-iranian-drone-maker/>
 New UK sanctions for alleged Russian suppliers hit Turkish and Emirati firms, Iranian drone maker
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/noaa-eases-licensing-restrictions-on-commercial-remote-sensing/>
-NOAA eases licensing restrictions on commercial remote sensing
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/unmanned-and-unmatched-rheinmetalls-autonomous-vehicle-technology-drives-future-force-mobility/>
-Unmanned and unmatched: Rheinmetall’s autonomous vehicle technology drives future force mobility
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/maintaining-lasers-for-counter-drone-protection-can-be-a-struggle-in-remote-locations-officials/>
-Maintaining lasers for counter-drone protection can be a struggle in remote locations: Officials
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/air-force-developing-new-architecture-for-jadc2-kill-chains-wants-faster-abms-development/>
-Air Force developing new architecture for JADC2 ‘kill chains,’ wants faster ABMS development
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/us-army-wants-more-patriot-units-but-faces-tough-recruiting-environment/>
-US Army wants more Patriot units, but faces tough recruiting environment
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/chinas-rapid-space-launch-advantage-and-how-the-us-can-try-to-counter-it/>
-China’s rapid space launch advantage, and how the US can try to counter it
 </a>
 </td> 
 </tr> 
