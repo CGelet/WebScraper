@@ -221,11 +221,6 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://breakingdefense.com/2023/08/new-zealands-national-security-strategy-greater-regional-presence-aussie-ties-and-questions/>
-New Zealand’s National Security Strategy: Greater regional presence, Aussie ties, and questions
-</a>
-</td> 
-<td>
 <a href=https://breakingdefense.com/2023/08/race-for-new-f-35-cooling-system-heats-up-as-dod-wont-rule-out-competition/>
 Race for new F-35 cooling system heats up, as DoD won’t rule out competition
 </a>
@@ -235,13 +230,13 @@ Race for new F-35 cooling system heats up, as DoD won’t rule out competition
 Pentagon launches ‘Task Force Lima’ to study generative AI for defense
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/malabar-exercise-brings-india-to-the-pacific-along-with-aussie-f-35s-p-8s/>
 Malabar exercise brings India to the Pacific – along with Aussie F-35s, P-8s
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/army-closes-in-on-fielding-of-long-range-hypersonic-weapon/>
 Army closes in on fielding of Long-Range Hypersonic Weapon
@@ -252,13 +247,13 @@ Army closes in on fielding of Long-Range Hypersonic Weapon
 Baykar CEO hopes massive Saudi deal paves path for Turkish defense firms in KSA
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/land-forces-now-control-the-sea-and-that-is-vital-in-the-pacific/>
 Land forces now control the sea — and that is vital in the Pacific
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/exclusive-how-the-navys-chief-engineer-sees-3d-printing-rebuilding-the-fleet/>
 EXCLUSIVE: How the Navy’s chief engineer sees 3D printing rebuilding the fleet
@@ -269,13 +264,13 @@ EXCLUSIVE: How the Navy’s chief engineer sees 3D printing rebuilding the fleet
 Tying it together: Army eyes evolving test plan new capabilities bound for Guam
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/missile-defense-agencys-first-flight-test-for-aegis-in-guam-set-for-late-24/>
 Missile Defense Agency’s first flight test for Aegis in Guam set for late ’24
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/darpa-white-house-launch-20m-ai-cybersecurity-challenge/>
 DARPA, White House launch $20M AI, cybersecurity challenge
@@ -286,16 +281,21 @@ DARPA, White House launch $20M AI, cybersecurity challenge
 Fighting with lasers: Army to experiment with 50kw laser combined with kinetic air defenses
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/no-more-impasses-air-force-to-get-helo-technical-data-from-lockheed-boeing/>
 ‘No more impasses’: Air Force to get helo technical data from Lockheed, Boeing
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/beyond-bullet-on-bullet-northcoms-new-defense-plan-looks-to-kill-missiles-before-they-launch/>
 Beyond ‘bullet on bullet’: NORTHCOM’s new defense plan looks to kill missiles before they launch
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/pentagon-memo-aims-to-leverage-9b-jwcc-to-greatest-extent-possible-official/>
+Pentagon memo aims to leverage $9B JWCC ‘to greatest extent possible’: Official
 </a>
 </td> 
 </tr> 
