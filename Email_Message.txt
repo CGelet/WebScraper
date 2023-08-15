@@ -12,64 +12,52 @@ AIA Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzkhRgMk>
-AI-based system chosen for US Capital airspace monitoring
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLpxiRYe>
+Northrop upgrades B-2's data transfer capabilities
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzktbERj>
-US weapons update needed to address China threat
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLpJrVmP>
+Contractor-owned drones reduce risk for Navy
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzkFnxdM>
-White House supports Argentina's air power modernization
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzlpnSLA>
-Ukraine demonstrates importance of electronic warfare
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzlBoCWT>
-Boeing report charts long-term growth for aviation sector
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzlNqHEU>
-SAF demand aligns farmers, airlines on SAF issue
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLpVCtrO>
+Air Force lab pursues quantum computing breakthrough
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzlZugLH>
-Part 135 flight hours decline
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLqhOlEr>
+Boeing provides $500K for Maui wildfire relief
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzmlzaui>
-NASA recognizes Boeing, Southern U. SLS partnership
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLrdSgva>
+FAA approves Archer's eVTOL flights amid investments
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzmxFozX>
-Collins develops BLoS communications pod
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLrpUldb>
+DHL signs on as Eve Air logistics support provider
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzmJMXga>
-Blue Canyon introduces heavy-payload cubesat
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLrBXKjO>
+IndiGo favors Dreamliner for 25-plane order, sources say
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbgrCfbwnsvbmzoBwVKJ>
-GOP infighting could lead to shutdown
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLsxzDSS>
+Senate confirmation pause leaves service branches in lurch
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rblzCfbwnsvbpLsJKbXR>
+DSCA offers new repay option for FMS deals
 </a>
 </td> 
 </tr> 
@@ -102,6 +90,18 @@ What challenges will the next Missile Defense Agency director face?
 </a>
 </td> 
 <td>
+<a href=https://www.defensenews.com/battlefield-tech/it-networks/2023/08/15/thousands-using-personal-cell-phones-tablets-for-official-army-work/>
+Thousands using personal cell phones, tablets for official Army work
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/c2-comms/2023/08/14/us-army-testing-communications-gear-for-different-fighting-styles/>
+US Army testing communications gear for different fighting styles
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
 <a href=https://www.defensenews.com/battlefield-tech/it-networks/2023/08/14/to-nail-logistics-us-army-works-on-info-sharing-at-talisman-sabre/>
 To nail logistics, US Army works on info-sharing at Talisman Sabre
 </a>
@@ -111,21 +111,9 @@ To nail logistics, US Army works on info-sharing at Talisman Sabre
 Ukraine war driving US Army electronic warfare development, Bush says
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/land/2023/08/11/us-army-working-through-challenges-with-laser-weapons/>
 US Army working through challenges with laser weapons
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/news/your-army/2023/08/11/these-soldiers-to-assess-the-armys-new-do-it-all-device-for-infantry/>
-These soldiers to assess the Army’s new do-it-all device for infantry
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/training-sim/2023/08/09/first-flight-test-for-guam-missile-defense-planned-for-end-of-2024/>
-First flight test for Guam missile defense planned for end of 2024
 </a>
 </td> 
 </tr> 
@@ -153,17 +141,22 @@ DoD chief warns of disruptions as Army, Marines lack confirmed leaders
 </a>
 </td> 
 <td>
+<a href=https://www.defensenews.com/naval/2023/08/14/acting-navy-chief-takes-over-a-fleet-on-the-cusp-of-major-changes/>
+Acting Navy chief takes over a fleet on the cusp of major changes
+</a>
+</td> 
+<td>
 <a href=https://www.defensenews.com/news/your-navy/2023/08/09/navy-extends-service-lives-of-four-more-destroyers/>
 Navy extends service lives of four more destroyers
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://www.defensenews.com/naval/2023/08/04/navy-says-destroyer-deal-helps-two-yards-boost-capacity-at-best-pace/>
 Navy says destroyer deal helps two yards boost capacity at best pace
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://www.defensenews.com/news/your-marine-corps/2023/08/03/marine-corps-now-has-unit-in-indo-pacific-flying-reaper-drones/>
 Marine Corps now has unit in Indo-Pacific flying Reaper drones
@@ -172,11 +165,6 @@ Marine Corps now has unit in Indo-Pacific flying Reaper drones
 <td>
 <a href=https://www.defensenews.com/industry/2023/08/02/anduril-epirus-to-boost-us-marine-corps-drone-defenses/>
 Anduril, Epirus to boost US Marine Corps drone defenses
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/news/your-military/2023/08/02/russia-launches-live-fire-baltic-naval-drills-on-europes-doorstep/>
-Russia launches live-fire Baltic naval drills on Europe’s doorstep
 </a>
 </td> 
 </tr> 
@@ -216,10 +204,39 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://breakingdefense.com/2023/08/poland-signs-deals-for-light-recon-vehicles-heavy-infantry-combat-vehicles-and-apcs/>
+Poland signs deals for light recon vehicles, heavy infantry combat vehicles and APCs
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/for-dod-microelectronics-invest-more-in-data-centric-approach-report/>
+For DoD microelectronics, invest more in data-centric approach: report
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/space-on-agenda-for-bidens-trilateral-summit-with-s-korea-japan/>
+Space on agenda for Biden’s trilateral summit with S. Korea, Japan
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/08/from-information-war-to-emerging-tech-new-ic-strategy-centers-competition-with-china-russia/>
+From information war to emerging tech: new IC strategy centers ‘competition’ with China, Russia
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/irregular-warfare-in-space-is-an-ongoing-threat-and-the-us-must-adapt/>
+Irregular warfare in space is an ongoing threat – and the US must adapt.
+</a>
+</td> 
+<td>
 <a href=https://breakingdefense.com/2023/08/in-a-first-saudi-drone-to-be-produced-in-turkey/>
 In a first, Saudi drone to be produced in Turkey
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/new-zealands-national-security-strategy-greater-regional-presence-aussie-ties-and-questions/>
 New Zealand’s National Security Strategy: Greater regional presence, Aussie ties, and questions
@@ -230,13 +247,13 @@ New Zealand’s National Security Strategy: Greater regional presence, Aussie ties
 Race for new F-35 cooling system heats up, as DoD won’t rule out competition
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/pentagon-launches-task-force-lima-to-study-generative-ai-for-defense/>
 Pentagon launches ‘Task Force Lima’ to study generative AI for defense
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/malabar-exercise-brings-india-to-the-pacific-along-with-aussie-f-35s-p-8s/>
 Malabar exercise brings India to the Pacific – along with Aussie F-35s, P-8s
@@ -247,13 +264,13 @@ Malabar exercise brings India to the Pacific – along with Aussie F-35s, P-8s
 Army closes in on fielding of Long-Range Hypersonic Weapon
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/baykar-ceo-hopes-massive-saudi-deal-paves-path-for-turkish-defense-firms-in-ksa/>
 Baykar CEO hopes massive Saudi deal paves path for Turkish defense firms in KSA
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/land-forces-now-control-the-sea-and-that-is-vital-in-the-pacific/>
 Land forces now control the sea — and that is vital in the Pacific
@@ -262,35 +279,6 @@ Land forces now control the sea — and that is vital in the Pacific
 <td>
 <a href=https://breakingdefense.com/2023/08/exclusive-how-the-navys-chief-engineer-sees-3d-printing-rebuilding-the-fleet/>
 EXCLUSIVE: How the Navy’s chief engineer sees 3D printing rebuilding the fleet
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/tying-it-together-army-eyes-evolving-test-plan-new-capabilities-bound-for-guam/>
-Tying it together: Army eyes evolving test plan new capabilities bound for Guam
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/missile-defense-agencys-first-flight-test-for-aegis-in-guam-set-for-late-24/>
-Missile Defense Agency’s first flight test for Aegis in Guam set for late ’24
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/darpa-white-house-launch-20m-ai-cybersecurity-challenge/>
-DARPA, White House launch $20M AI, cybersecurity challenge
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/fighting-with-lasers-army-to-experiment-with-50kw-laser-combined-with-kinetic-air-defenses/>
-Fighting with lasers: Army to experiment with 50kw laser combined with kinetic air defenses
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/no-more-impasses-air-force-to-get-helo-technical-data-from-lockheed-boeing/>
-‘No more impasses’: Air Force to get helo technical data from Lockheed, Boeing
 </a>
 </td> 
 </tr> 
