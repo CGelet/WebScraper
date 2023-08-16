@@ -221,10 +221,22 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
+<a href=https://breakingdefense.com/2023/08/the-army-wants-to-use-ai-boms-to-catch-up-to-china/>
+The Army wants to use AI BOMs to ‘catch up’ to China
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/08/italian-team-wins-space-forces-first-on-orbit-hack-a-sat-contest/>
+Italian team wins Space Force’s first on-orbit Hack-A-Sat contest
+</a>
+</td> 
+<td>
 <a href=https://breakingdefense.com/2023/08/wake-up-call-panel-identifies-5-key-ways-pentagon-can-reform-budget-process-now/>
 ‘Wake up call’: Panel identifies 5 ‘key’ ways Pentagon can reform budget process now
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/us-army-has-lot-of-work-to-do-to-push-ai-in-ground-vehicles-official/>
 US Army has ‘lot of work’ to do to push AI in ground vehicles: Official
@@ -235,13 +247,13 @@ US Army has ‘lot of work’ to do to push AI in ground vehicles: Official
 Lebanese navy to soon receive 3 protector class boats from the US, eyes 3 more
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/inside-israels-unique-radar-unit-a-peak-at-the-future-of-multi-domain-ops/>
 Inside Israel’s unique radar unit, a peak at the future of multi-domain ops
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/coalition-ops-northern-edge-2-highlights-culture-language-challenges/>
 Coalition ops: Northern Edge 2 highlights culture, language challenges
@@ -252,13 +264,13 @@ Coalition ops: Northern Edge 2 highlights culture, language challenges
 Why Will Roper still believes the Pentagon should work more like Formula One
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/simplifying-and-streamlining-how-the-armys-new-network-boss-aims-to-modernize/>
 Simplifying and streamlining: How the Army’s new network boss aims to modernize
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/poland-signs-deals-for-light-recon-vehicles-heavy-infantry-combat-vehicles-and-apcs/>
 Poland signs deals for light recon vehicles, heavy infantry combat vehicles and APCs
@@ -269,13 +281,13 @@ Poland signs deals for light recon vehicles, heavy infantry combat vehicles and 
 For DoD microelectronics, invest more in data-centric approach: report
 </a>
 </td> 
-</tr> 
-<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/space-on-agenda-for-bidens-trilateral-summit-with-s-korea-japan/>
 Space on agenda for Biden’s trilateral summit with S. Korea, Japan
 </a>
 </td> 
+</tr> 
+<tr> 
 <td>
 <a href=https://breakingdefense.com/2023/08/from-information-war-to-emerging-tech-new-ic-strategy-centers-competition-with-china-russia/>
 From information war to emerging tech: new IC strategy centers ‘competition’ with China, Russia
@@ -284,18 +296,6 @@ From information war to emerging tech: new IC strategy centers ‘competition’ wit
 <td>
 <a href=https://breakingdefense.com/2023/08/irregular-warfare-in-space-is-an-ongoing-threat-and-the-us-must-adapt/>
 Irregular warfare in space is an ongoing threat – and the US must adapt.
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/in-a-first-saudi-drone-to-be-produced-in-turkey/>
-In a first, Saudi drone to be produced in Turkey
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/new-zealands-national-security-strategy-greater-regional-presence-aussie-ties-and-questions/>
-New Zealand’s National Security Strategy: Greater regional presence, Aussie ties, and questions
 </a>
 </td> 
 </tr> 
