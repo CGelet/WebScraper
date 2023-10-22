@@ -12,64 +12,59 @@ AIA Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuabhwAoN>
-AIA praises Carbajal's Aerospace Caucus role
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmgVMCMc>
+Weapons production pressure mounts amid global conflicts
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuabtCOuC>
-Army looks to accelerate software buys
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmhhUlsf>
+Pentagon report underscores China's military threat
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuabFKxaF>
-Raytheon explores potential of laser power transmission
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuabRTApq>
-Panel recommends changes to defense budget process
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuacddYup>
-Dubai Aerospace Enterprise selects Max for fuel efficiency
-</a>
-</td> 
-<td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuacppQGS>
-P&W, Collins pursue electric flight breakthrough
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmhtdoGQ>
+Northrop Grumman supports S. Korea's EW capability
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuacZmcRy>
-Atlas showcases Boeing Dreamlifter at air show
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmhFnMLP>
+Navy selects HII Minotaur system
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuadlmNcR>
-Women in Aviation offers $1M in scholarships
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmhRzEYs>
+Boeing provides financial support to Spirit
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuadxoRKS>
-GD, Leidos provide geospatial services to Army
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmiByGes>
+Honeywell builds on Anthem platform
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuadJsqRF>
-NASA, Sikorsky, DARPA advance air taxi automation
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmiNzqpL>
+Citation CJ3 Gen 2 gets launch customer
 </a>
 </td> 
 <td>
-<a href=https://r.smartbrief.com/resp/rbrOCfbwnsvbuadVxkAg>
-Air Force likely to expect more data rights
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmiZBuXM>
+Space Force sets policy for commercial services surge
+</a>
+</td> 
+<td>
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmjlEUez>
+Rocket Lab reaches integration stage for NASA Mars study
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://r.smartbrief.com/resp/rnwzCfbwnsvnwmjxJNNa>
+Whitaker nomination to FAA post advances in Senate
 </a>
 </td> 
 </tr> 
@@ -80,137 +75,137 @@ DefenseNews Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/global/asia-pacific/2023/08/15/japanese-f-35s-to-make-inaugural-deployment-to-australia/>
-Japanese F-35s to make inaugural deployment to Australia
+<a href=https://www.defensenews.com/air/2023/10/20/heres-when-the-first-t-7-trainer-is-to-fly-to-edwards-air-force-base/>
+Here’s when the first T-7 trainer is to fly to Edwards Air Force Base
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/global/europe/2023/08/10/romania-eyes-32-f-35s-under-65-billion-deal/>
-Romania eyes 32 F-35s under $6.5 billion deal
+<a href=https://www.defensenews.com/air/2023/10/18/goodbye-dials-digital-avionics-coming-to-aging-us-air-force-c-130s/>
+Goodbye, dials: Digital avionics coming to aging US Air Force C-130s
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/2023/08/09/kratos-hypersonix-team-up-on-hypersonic-systems-for-us-market/>
-Kratos, Hypersonix team up on hypersonic systems for US market
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://www.defensenews.com/news/your-air-force/2023/08/09/inside-the-air-forces-massive-mobility-war-game-in-the-pacific/>
-Inside the Air Force’s massive mobility war game in the Pacific
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/land/2023/08/16/international-interest-growing-for-armys-battle-command-system/>
-International interest growing for Army’s battle command system
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/artificial-intelligence/2023/08/16/us-army-seeks-industry-input-on-ai-bill-of-materials/>
-US Army seeks industry input on AI bill of materials
+<a href=https://www.defensenews.com/air/2023/10/17/czech-republic-enters-talks-with-embraer-for-c-390-aircraft-deal/>
+Czech Republic enters talks with Embraer for C-390 aircraft deal
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/electronic-warfare/2023/08/15/us-army-set-to-test-combined-cyber-jamming-signal-intelligence-tool/>
-US Army set to test combined cyber, jamming, signal intelligence tool
+<a href=https://www.defensenews.com/industry/2023/10/16/french-firms-to-triple-155mm-ammo-production-boost-weapons-output/>
+French firms to triple 155mm ammo production, boost weapons output
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/it-networks/2023/08/15/thousands-using-personal-cell-phones-tablets-for-official-army-work/>
-Thousands using personal cell phones, tablets for official Army work
+<a href=https://www.defensenews.com/news/your-air-force/2023/10/16/the-air-force-is-launching-an-era-of-transformation-can-it-work/>
+The Air Force is launching an era of transformation. Can it work? 
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/c2-comms/2023/08/14/us-army-testing-communications-gear-for-different-fighting-styles/>
-US Army testing communications gear for different fighting styles
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://www.defensenews.com/industry/2023/08/16/orders-flooding-in-on-pentagons-9-billion-cloud-contract/>
-Orders flooding in on Pentagon’s $9 billion cloud contract
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/congress/2023/08/15/capitol-hill-commission-urges-overhaul-of-pentagon-budget-planning/>
-Capitol Hill commission urges overhaul of Pentagon budget planning
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/artificial-intelligence/2023/08/10/pentagon-establishes-task-force-lima-to-study-generative-ai-issues/>
-Pentagon establishes Task Force Lima to study generative AI issues
+<a href=https://www.defensenews.com/battlefield-tech/it-networks/2023/10/20/upgrade-networks-or-suffer-on-the-battlefield-generals-warn/>
+Upgrade networks or suffer on the battlefield, generals warn
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/home/2023/08/08/leidos-refining-focus-crafting-north-star-vision-ceo-tom-bell-says/>
-Leidos refining focus, crafting ‘North Star’ vision, CEO Tom Bell says
+<a href=https://www.defensenews.com/global/europe/2023/10/18/italy-unveils-weapons-wish-list-forecasts-defense-spending/>
+Italy unveils weapons wish list, forecasts defense spending
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/news/your-navy/2023/08/07/how-adm-paparo-will-lead-the-us-military-in-the-indo-pacific/>
-How Adm. Paparo will lead the US military in the Indo-Pacific
+<a href=https://www.defensenews.com/news/your-army/2023/10/17/improper-storage-damaging-18-billion-in-army-ground-combat-equipment/>
+Improper storage damaging $1.8 billion in Army ground combat equipment
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/naval/2023/08/14/acting-navy-chief-takes-over-a-fleet-on-the-cusp-of-major-changes/>
-Acting Navy chief takes over a fleet on the cusp of major changes
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://www.defensenews.com/news/your-navy/2023/08/09/navy-extends-service-lives-of-four-more-destroyers/>
-Navy extends service lives of four more destroyers
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/naval/2023/08/04/navy-says-destroyer-deal-helps-two-yards-boost-capacity-at-best-pace/>
-Navy says destroyer deal helps two yards boost capacity at best pace
-</a>
-</td> 
-<td>
-<a href=https://www.defensenews.com/news/your-marine-corps/2023/08/03/marine-corps-now-has-unit-in-indo-pacific-flying-reaper-drones/>
-Marine Corps now has unit in Indo-Pacific flying Reaper drones
+<a href=https://www.defensenews.com/global/europe/2023/10/13/kosovo-alleges-serbia-violated-deal-on-how-it-uses-us-made-equipment/>
+Kosovo alleges Serbia violated deal on how it uses US-made equipment
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/industry/2023/08/02/anduril-epirus-to-boost-us-marine-corps-drone-defenses/>
-Anduril, Epirus to boost US Marine Corps drone defenses
+<a href=https://www.defensenews.com/electronic-warfare/2023/10/13/us-army-to-build-electronic-warfare-training-ground-at-fort-gordon/>
+US Army to build electronic warfare training ground at Fort Gordon
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/space/2023/08/16/darpa-to-explore-technology-needed-for-moon-based-economy/>
-DARPA to explore technology needed for moon-based economy
+<a href=https://www.defensenews.com/global/the-americas/2023/10/20/biden-asks-for-defense-package-israel-ukraine-aukus-and-the-pacific/>
+Biden asks for defense package: Israel, Ukraine, AUKUS and the Pacific
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/space/2023/08/11/how-the-space-force-is-preparing-its-ground-systems-for-dynamic-ops/>
-How the Space Force is preparing its ground systems for ‘dynamic’ ops
+<a href=https://www.defensenews.com/congress/2023/10/20/biden-asks-congress-for-israel-ukraine-aid-in-giant-defense-package/>
+Biden asks Congress for Israel, Ukraine aid in giant defense package 
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/space/2023/08/03/rogers-demands-pentagon-comply-with-space-command-inquiry/>
-Rogers demands Pentagon comply with Space Command inquiry
+<a href=https://www.defensenews.com/pentagon/2023/10/19/china-more-than-doubled-its-nuclear-arsenal-since-2020-pentagon-says/>
+China more than doubled its nuclear arsenal since 2020, Pentagon says
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/alabama-lawmaker-blames-far-left-politics-for-spacecom-hq-decision/>
-Alabama lawmaker blames ‘far-left’ politics for SPACECOM HQ decision
+<a href=https://www.defensenews.com/pentagon/2023/10/17/ukraine-announces-its-received-and-fired-us-long-range-missiles/>
+Ukraine announces it’s received, and fired, US long-range missiles
 </a>
 </td> 
 <td>
-<a href=https://www.defensenews.com/battlefield-tech/space/2023/07/31/space-command-to-stay-in-colorado-after-biden-rejects-move-to-alabama/>
-Space Command to stay in Colorado after Biden rejects move to Alabama
+<a href=https://www.defensenews.com/congress/2023/10/17/senators-push-biden-to-release-submarine-costs-for-aukus/>
+Senators push Biden to release submarine costs for AUKUS
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/global/asia-pacific/2023/10/20/australia-makes-decision-on-chinese-firms-lease-of-critical-port/>
+Australia makes decision on Chinese firm’s lease of critical port
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/training-sim/2023/10/18/us-philippines-wrap-up-naval-drill-amid-clashes-in-south-china/>
+US, Philippines wrap up naval drill amid clashes in South China
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/global/europe/2023/10/13/dutch-navy-starts-retiring-submarines-but-successor-still-unknown/>
+Dutch navy starts retiring submarines, but successor still unknown
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/management/leadership/2023/10/10/biden-vows-us-resolve-to-back-israel-as-uss-ford-enters-region/>
+Biden vows US resolve to back Israel as USS Ford enters region
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/10/20/space-development-agency-orders-62-satellites-from-york-space-systems/>
+Space Development Agency orders 62 satellites from York Space Systems
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/10/19/space-force-finalizes-plan-for-commercial-surge-capacity-during-crisis/>
+Space Force finalizes plan for commercial surge capacity during crisis
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/10/11/space-force-seeks-proposals-for-project-apollo-technology-hub/>
+Space Force seeks proposals for Project Apollo technology hub
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/10/05/space-force-seeks-bids-for-next-phase-of-national-security-launches/>
+Space Force seeks bids for next phase of national security launches
+</a>
+</td> 
+<td>
+<a href=https://www.defensenews.com/battlefield-tech/space/2023/10/04/booz-allen-hamilton-wins-space-force-integration-contract/>
+Booz Allen Hamilton wins Space Force integration contract
 </a>
 </td> 
 </tr> 
@@ -221,81 +216,81 @@ BreakingDefense Articles
 </tr> 
 <tr> 
 <td>
-<a href=https://breakingdefense.com/2023/08/the-army-wants-to-use-ai-boms-to-catch-up-to-china/>
-The Army wants to use AI BOMs to ‘catch up’ to China
+<a href=https://breakingdefense.com/2023/10/pentagons-first-industrial-base-strategy-meant-to-catalyze-generational-change/>
+Pentagon’s first industrial base strategy meant to ‘catalyze generational change’
 </a>
 </td> 
 <td>
-<a href=https://breakingdefense.com/2023/08/italian-team-wins-space-forces-first-on-orbit-hack-a-sat-contest/>
-Italian team wins Space Force’s first on-orbit Hack-A-Sat contest
+<a href=https://breakingdefense.com/2023/10/how-drone-warfare-in-israel-could-dramatically-change-if-hezbollah-joins-the-fight-analysts/>
+How drone warfare in Israel could dramatically change if Hezbollah joins the fight: Analysts
 </a>
 </td> 
 <td>
-<a href=https://breakingdefense.com/2023/08/wake-up-call-panel-identifies-5-key-ways-pentagon-can-reform-budget-process-now/>
-‘Wake up call’: Panel identifies 5 ‘key’ ways Pentagon can reform budget process now
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/us-army-has-lot-of-work-to-do-to-push-ai-in-ground-vehicles-official/>
-US Army has ‘lot of work’ to do to push AI in ground vehicles: Official
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/lebanese-navy-to-soon-receive-3-protector-class-boats-from-the-us-eyes-3-more/>
-Lebanese navy to soon receive 3 protector class boats from the US, eyes 3 more
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/inside-israels-unique-radar-unit-a-peak-at-the-future-of-multi-domain-ops/>
-Inside Israel’s unique radar unit, a peak at the future of multi-domain ops
+<a href=https://breakingdefense.com/2023/10/ukraine-israel-submarines-whats-in-bidens-105b-supplemental-request/>
+Ukraine, Israel, submarines: What’s in Biden’s $105B supplemental request
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://breakingdefense.com/2023/08/coalition-ops-northern-edge-2-highlights-culture-language-challenges/>
-Coalition ops: Northern Edge 2 highlights culture, language challenges
+<a href=https://breakingdefense.com/2023/10/space-force-moves-to-expand-acquisition-of-novel-satcom-capabilities-services/>
+Space Force moves to expand acquisition of novel SATCOM capabilities/services
 </a>
 </td> 
 <td>
-<a href=https://breakingdefense.com/2023/08/formula-one-will-roper-air-force-digital-design/>
-Why Will Roper still believes the Pentagon should work more like Formula One
+<a href=https://breakingdefense.com/2023/10/jets-on-highways-why-european-militaries-are-expanding-dispersed-road-exercises/>
+Jets on highways: Why European militaries are expanding ‘dispersed’ road exercises
 </a>
 </td> 
 <td>
-<a href=https://breakingdefense.com/2023/08/simplifying-and-streamlining-how-the-armys-new-network-boss-aims-to-modernize/>
-Simplifying and streamlining: How the Army’s new network boss aims to modernize
-</a>
-</td> 
-</tr> 
-<tr> 
-<td>
-<a href=https://breakingdefense.com/2023/08/poland-signs-deals-for-light-recon-vehicles-heavy-infantry-combat-vehicles-and-apcs/>
-Poland signs deals for light recon vehicles, heavy infantry combat vehicles and APCs
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/for-dod-microelectronics-invest-more-in-data-centric-approach-report/>
-For DoD microelectronics, invest more in data-centric approach: report
-</a>
-</td> 
-<td>
-<a href=https://breakingdefense.com/2023/08/space-on-agenda-for-bidens-trilateral-summit-with-s-korea-japan/>
-Space on agenda for Biden’s trilateral summit with S. Korea, Japan
+<a href=https://breakingdefense.com/2023/10/sda-taps-york-for-62-tranche-2-transport-layer-data-relay-sats-to-provide-global-coverage/>
+SDA taps York for 62 Tranche 2 Transport Layer data relay sats to provide ‘global’ coverage
 </a>
 </td> 
 </tr> 
 <tr> 
 <td>
-<a href=https://breakingdefense.com/2023/08/from-information-war-to-emerging-tech-new-ic-strategy-centers-competition-with-china-russia/>
-From information war to emerging tech: new IC strategy centers ‘competition’ with China, Russia
+<a href=https://breakingdefense.com/2023/10/the-israeli-gaza-campaign-high-expectations-big-risks-and-bleak-outcomes/>
+The Israeli Gaza campaign: High expectations, big risks and bleak outcomes
 </a>
 </td> 
 <td>
-<a href=https://breakingdefense.com/2023/08/irregular-warfare-in-space-is-an-ongoing-threat-and-the-us-must-adapt/>
-Irregular warfare in space is an ongoing threat – and the US must adapt.
+<a href=https://breakingdefense.com/2023/10/biden-to-send-urgent-budget-request-for-ukraine-israel-aid-to-congress/>
+Biden to send ‘urgent’ budget request for Ukraine, Israel aid to Congress
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/10/space-force-launches-effort-to-harness-allied-supply-chain/>
+Space Force launches effort to harness allied supply chain
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/10/lawmakers-experts-raise-concerns-over-pentagons-ambitious-replicator-drone-initiative/>
+Lawmakers, experts raise concerns over Pentagon’s ambitious Replicator drone initiative
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/10/estonia-looks-to-turkish-firms-for-211m-armored-vehicle-buy/>
+Estonia looks to Turkish firms for $211M armored vehicle buy
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/10/strategic-forces-commission-stops-short-of-endorsing-controversial-slcm-n-program/>
+Strategic forces commission stops short of endorsing controversial SLCM-N program
+</a>
+</td> 
+</tr> 
+<tr> 
+<td>
+<a href=https://breakingdefense.com/2023/10/army-national-guard-aims-for-50000-byo-device-users-as-hypori-updates-app/>
+Army National Guard aims for 50,000 BYO-Device users as Hypori updates app
+</a>
+</td> 
+<td>
+<a href=https://breakingdefense.com/2023/10/israel-ukraine-and-the-pentagon-need-munitions-the-us-needs-a-wartime-mindset-to-deliver/>
+Israel, Ukraine and the Pentagon need munitions. The US needs a wartime mindset to deliver.
 </a>
 </td> 
 </tr> 
